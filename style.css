@@ -1,0 +1,98 @@
+body{
+  background: url(test3.png) no-repeat center center fixed;;
+  background-size:cover;
+
+  position: relative;
+}
+#containt{
+  text-align:center;
+  padding-top: 5%;
+
+}
+#jumbo{
+  background: url(test.jpg) no-repeat center center fixed;;
+  background-size:cover;
+font-family: 'Lobster', cursive;
+}
+#navcolor{
+  background-color:#fff;
+  font-family: 'Lobster', cursive;
+}
+#appSummary {
+
+           text-align: center;
+           margin-top:50px;
+           margin-bottom: 50px;
+
+         }
+.card-img-top {
+             height:350px;
+
+         }
+         .Summary{  color: #fff;
+           font-size: 1.5em;
+
+                         font-family: 'Lobster', cursive;
+                         text-align: center;
+
+         }
+
+h1{
+  color: #fff;
+  text-shadow:1px 4px 3px rgba(0,0,0,0,0.4),
+              1px 8px 13px rgba(0,0,0,0,0.1),
+              1px 18px 23px rgba(0,0,0,0,0.1);
+  font-size: 5em;
+  font-weight: 400;
+}
+h2{  color:#fff;
+  text-shadow:1px 4px 3px rgba(0,0,0,0,0.4),
+              1px 8px 13px rgba(0,0,0,0,0.1),
+              1px 18px 23px rgba(0,0,0,0,0.1);
+  font-size: 3em;
+  font-weight: 400;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+}
+h3{
+  color: #fff;
+  font-size: 1.5em;
+  text-shadow:1px 4px 3px rgba(0,0,0,0,0.4),
+              1px 8px 13px rgba(0,0,0,0,0.1),
+              1px 18px 23px rgba(0,0,0,0,0.1);
+}
+h4{  font-family: 'Lobster', cursive;
+
+}
+h5{color:#fff;
+  text-shadow:1px 4px 3px rgba(0,0,0,0,0.4),
+              1px 8px 13px rgba(0,0,0,0,0.1),
+              1px 18px 23px rgba(0,0,0,0,0.1);
+  font-size: 3em;
+  font-weight: 400;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+}
+
+hr{
+  background-color: white;
+  width: 400px;
+  border-top: 1px solid rgba(0,0,0,0,0.2);
+  border-bottom:1px solid rgba(0,0,0,0,0.2);
+
+}
+#footer {
+
+              background-color: grey;
+              padding-top: 50px;
+              margin-top: 50px;
+              text-align: center;
+              padding-bottom: 50px;
+          }
+          #appStoreIcon {
+
+              width: 200px;
+
+          }
